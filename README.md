@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou a Carolina
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas
+🎓 Estudante de Análise e Desenvolvimento de Sistemas                                                                                                                  
 💻 Interessada em C++, HTML, Banco de Dados e Segurança da Informação  
 🚀 Em transição de carreira para a área de tecnologia  
 📍 Campos do Jordão - SP
