@@ -12,5 +12,5 @@
 
 ## 📫 Como me encontrar
 - Email: cclarooliveira@hotmail.com
-- LinkedIn: [linkedin.com/in/carolina](https://linkedin.com/in/carolina)
+- LinkedIn: https://www.linkedin.com/in/carolinaclaro/
 
