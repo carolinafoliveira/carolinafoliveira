@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Olá! Eu sou a Carolina
 
-<!--
-**carolinafoliveira/carolinafoliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas no Instituto Federal de São Paulo - Campos do Jordão
+💻 Interessada em C++, HTML, Banco de Dados e Segurança da Informação  
+🚀 Em transição de carreira para a área de tecnologia  
+📍 Campos do Jordão - SP
 
-Here are some ideas to get you started:
+## 🌱 Atualmente estudando
+- Lógica de programação com C++
+- Desenvolvimento web com HTML, CSS e JavaScript
+- Álgebra relacional e fundamentos de banco de dados
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Como me encontrar
+- Email: cclarooliveira@hotmail.com
+- LinkedIn: [linkedin.com/in/carolina](https://linkedin.com/in/carolina)
+
