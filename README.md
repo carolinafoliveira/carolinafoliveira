@@ -27,7 +27,7 @@ Meu objetivo é unir conhecimento de negócios, dados e programação para criar
 * Python
 * SQL
 * HTML5
-* CSS3
+* CSS
 
 ### Áreas de Interesse
 
