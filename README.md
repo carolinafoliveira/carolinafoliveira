@@ -8,33 +8,40 @@ Desenvolvimento de Software | Dados | Suporte TI | Automação
 </p>
 
 ---
-
 ## 📊 GitHub em números
 
 <p align="center">
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=carolinafoliveira&theme=github_dark"
-    height="170"
+    height="180"
   />
-
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=carolinafoliveira&theme=github_dark"
-    height="170"
+    height="180"
   />
 </p>
 
 <p align="center">
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=carolinafoliveira&theme=github_dark"
-    height="170"
+    height="180"
   />
-
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=carolinafoliveira&theme=github_dark&utcOffset=-3"
-    height="170"
+    height="180"
   />
 </p>
 
+---
+
+## 📈 Atividade no GitHub
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=carolinafoliveira&theme=github-compact&hide_border=true"
+    width="95%"
+  />
+</p>
 ---
 
 ## 💻 Tecnologias e Ferramentas
