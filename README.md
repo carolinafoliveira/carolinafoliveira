@@ -33,9 +33,6 @@ Estudante de **Análise e Desenvolvimento de Sistemas no IFSP**
 
 ## 🚀 Projetos
 
-**MOVA** — Interface gestual com IA  
-`Python` `OpenCV` `MediaPipe`
-
 **Aprendendo Java** — Estudos e projetos em Java  
 `Java`
 
