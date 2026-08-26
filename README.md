@@ -4,8 +4,7 @@
 
 **Desenvolvimento de Software • Dados • Suporte TI**
 
-Estudante de **Análise e Desenvolvimento de Sistemas no IFSP**  
-Experiência em análise de processos, finanças e resolução de problemas.
+Estudante de **Análise e Desenvolvimento de Sistemas no IFSP**
 
 <img src="https://komarev.com/ghpvc/?username=carolinafoliveira&label=VISUALIZAÇÕES&style=flat-square" />
 
@@ -24,12 +23,10 @@ Experiência em análise de processos, finanças e resolução de problemas.
 ## 📊 GitHub
 
 <p align="center">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=carolinafoliveira&theme=github_dark" />
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=carolinafoliveira&theme=github_dark" />
-</p>
-
-<p align="center">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=carolinafoliveira&theme=github_dark" />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=carolinafoliveira&theme=github_dark"
+    width="90%"
+  />
 </p>
 
 ---
@@ -40,7 +37,7 @@ Experiência em análise de processos, finanças e resolução de problemas.
 `Python` `OpenCV` `MediaPipe`
 
 **Aprendendo Java** — Estudos e projetos em Java  
-`Java` `POO` `Algoritmos`
+`Java`
 
 **Projetos C++** — Estruturas de dados e algoritmos  
 `C++`
@@ -49,4 +46,4 @@ Experiência em análise de processos, finanças e resolução de problemas.
 
 ## 📫 Contato
 
-[LinkedIn](https://www.linkedin.com/in/carolinaclaro/) • GitHub
+[LinkedIn](https://www.linkedin.com/in/carolinaclaro/)
