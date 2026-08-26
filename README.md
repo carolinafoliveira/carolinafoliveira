@@ -1,32 +1,63 @@
-## 👋 Olá, eu sou a Carolina Oliveira
+# 👋 Olá, eu sou a Carolina Oliveira
 
-Estudante de **Análise e Desenvolvimento de Sistemas** | Desenvolvimento de Software | Dados | Suporte TI
+Estudante de **Análise e Desenvolvimento de Sistemas**  
+Desenvolvimento de Software | Dados | Suporte TI | Automação
 
-![Visualizações](https://komarev.com/ghpvc/?username=carolinafoliveira&label=VISUALIZAÇÕES&style=flat)
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=carolinafoliveira&label=VISUALIZAÇÕES&style=flat-square" />
+</p>
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 📊 GitHub em números
 
-### 💻 Linguagens
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=carolinafoliveira&theme=github_dark"
+    height="170"
+  />
+
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=carolinafoliveira&theme=github_dark"
+    height="170"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=carolinafoliveira&theme=github_dark"
+    height="170"
+  />
+
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=carolinafoliveira&theme=github_dark&utcOffset=-3"
+    height="170"
+  />
+</p>
+
+---
+
+## 💻 Tecnologias e Ferramentas
+
+### Linguagens
 
 <p>
   <img src="https://skillicons.dev/icons?i=java,cpp,python,javascript" />
 </p>
 
-### 🌐 Front-End
+### Web
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css" />
 </p>
 
-### 🗄️ Banco de Dados
+### Banco de Dados
 
 <p>
   <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
-### 🔧 Ferramentas
+### Ferramentas
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
@@ -34,12 +65,10 @@ Estudante de **Análise e Desenvolvimento de Sistemas** | Desenvolvimento de Sof
 
 ---
 
-## 📊 Linguagens mais utilizadas
+## 📈 Atividade
 
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=carolinafoliveira&layout=compact&langs_count=8)
-
----
-
-## 📈 Estatísticas do GitHub
-
-![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=carolinafoliveira&show_icons=true)
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=carolinafoliveira&theme=github-compact"
+  />
+</p>
