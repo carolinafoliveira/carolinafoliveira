@@ -37,11 +37,12 @@ Desenvolvimento de Software | Dados | Suporte TI | Automação
 ## 📈 Atividade no GitHub
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=carolinafoliveira&theme=github-compact&hide_border=true"
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=carolinafoliveira&theme=github_dark"
     width="95%"
   />
 </p>
+
 ---
 
 ## 💻 Tecnologias e Ferramentas
